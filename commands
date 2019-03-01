@@ -23,3 +23,5 @@ aws configure ==> stores creds in ~/.aws
 
 aws ec2 describe-key-pairs
 aws ec2 describe-instances
+aws ec2 delete-volume --volume-id vol-084b4dfbcea9646da
+aws ec2 start-instances --instance-ids i-08b2c34fd42955935

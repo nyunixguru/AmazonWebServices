@@ -10,7 +10,7 @@ Example:
 ssh -i "ec2key.pem" ec2-user@ec2-34-238-241-39.compute-1.amazonaws.com
 
 
-AWS CLI
+AWS CLI - install and configure
 
 cd ==> /home/david
 Install pip
